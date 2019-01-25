@@ -1,0 +1,1 @@
+# JavaScript常用方法
